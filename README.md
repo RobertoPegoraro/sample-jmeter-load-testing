@@ -15,7 +15,7 @@ Since the requirements did not specify details such as the number of users, numb
 ![Dashboard](./images/dashboard.png)
 
 ## Evidences
-![Result Tree](./images/resulttree.png)
+![Result Tree](./images/resulttree2.png)
 ![Summary Report](./images/summary.png)
 ![Aggregate Report](./images/aggregate.png)
 
