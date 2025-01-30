@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738244803368,685,GET_AllObjects,200,,Get Objects 1-1,text,true,,2122,129,1,1,https://api.restful-api.dev/objects,682,0,210
+1738244804482,464,GET_FilteredObjects,200,,Get Objects 1-1,text,true,,1162,145,1,1,https://api.restful-api.dev/objects?id=3&id=5&id=10,464,0,0
+1738244804947,451,GET_SpecificObject,200,,Get Objects 1-1,text,true,,1016,131,1,1,https://api.restful-api.dev/objects/7,451,0,0
