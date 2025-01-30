@@ -10,3 +10,12 @@ Since the requirements did not specify details such as the number of users, numb
 * Download and Extract [JMeter 5.6.3](https://jmeter.apache.org/download_jmeter.cgi)
 * Inside the JMeter bin folder, run the command line ```jmeter -n -t "JMX_FILE_LOCATION" -l "REPORT_FILE_LOCATION" -e -o "REPORT_FOLDER_LOCATION"```. Be sure to replace the placeholders with the appropriate file and folder paths.
 * Once the command has executed, navigate to the index.html file in your specified Report Folder Location to view the Results Dashboard.
+
+#Dashboard
+![Dashboard](./images/dashboard.png)
+
+## Evidences
+![Result Tree](./images/resulttree.png)
+![Summary Report](./images/summary.png)
+![Aggregate Report](./images/aggregate.png)
+
